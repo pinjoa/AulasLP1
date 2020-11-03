@@ -3,3 +3,6 @@
 
 # ignore all .o files
 *.o
+
+# outros ficheiros e pastas
+PI/
